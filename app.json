@@ -6,37 +6,37 @@
     "links",
     "sharing"
   ],
-  "repository": "https://github.com/Sahil0976/Links-Sharing",
+  "repository": "https://github.com/selvyseevy/Links-Share-Bot/tree/Render",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "8707816870:AAESQbyDBhaEj6x3Jyd4t3GxaEMf1h_TJYA"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": ""
+      "value": "8480922250"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "30322849"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": "mongodb+srv://akdanimes_97:akdanimes_97@cluster0.5e3ojhb.mongodb.net/?appName=Cluster0"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "linkssharing"
+      "value": "Cluster0"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "2a8d13c1d6ce82476411f003b6922e47"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
-      "required": false
+      "value": "akd_animes97",
+      "required": True
     }
   },
   "buildpacks": [
