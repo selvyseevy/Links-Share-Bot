@@ -31,7 +31,7 @@ START_PIC = "https://telegra.ph/file/f3d3aff9ec422158feb05-d2180e3665e0ac4d32.jp
 START_IMG = "https://telegra.ph/file/f3d3aff9ec422158feb05-d2180e3665e0ac4d32.jpg"
 # Messages
 START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪɴᴋs sʜᴀʀɪɴɢ ʙᴏᴛ. ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴄᴀɴ sʜᴀʀᴇ ʟɪɴᴋs ᴀɴᴅ ᴋᴇᴇᴘ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟs sᴀғᴇ ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs.\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Akd_Animess'>ᴀᴋᴅ ᴀɴɪᴍᴇ</a></blockquote></b>")
-HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/akd_animes97>ᴀᴋᴅ</a>\n» Our Community: <a href=https://t.me/Akd_hanimee>ᴀᴋᴅ Network</a>\n» Anime Channel: <a href=https://t.me/Akd_Animess>AKD ANIMES</a>\n» Ongoing Anime: <a href=https://t.me/AKD_Ongoing_Animes>Ongoing AKD</a>\n» Developer: <a href=https://t.me/akd_animes97>AKD</a></b>")
+HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/its_tussu>ᴀᴋᴅ</a>\n» Our Community: <a href=https://t.me/Akd_hanimee>ᴀᴋᴅ Network</a>\n» Anime Channel: <a href=https://t.me/Akd_Animess>AKD ANIMES</a>\n» Ongoing Anime: <a href=https://t.me/AKD_Ongoing_Animes>Ongoing AKD</a>\n» Developer: <a href=https://t.me/akd_animes97>AKD</a></b>")
 ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by Yato (@ProYato) to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
 
 ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/Akd_hanimee'>ᴀᴋᴅ ʜᴀɴɪᴍᴇ</a>
