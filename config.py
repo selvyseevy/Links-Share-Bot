@@ -5,7 +5,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 # Recommended
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8707816870:AAESQbyDBhaEj6x3Jyd4t3GxaEMf1h_TJYA")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8874599273:AAGpfP7fiJPflBnTBO1T8Pr87EcSrILBB74")
 APP_ID = int(os.environ.get("API_ID", "30322849"))
 API_HASH = os.environ.get("API_HASH", "2a8d13c1d6ce82476411f003b6922e47")
 
@@ -57,7 +57,7 @@ USER_REPLY_TEXT = "⚠️ ғᴜᴄᴋ ʏᴏᴜ, ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ
 
 # Logging
 LOG_FILE_NAME = "links-sharingbot.txt"
-DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-1003773420091")) # Channel where user links are stored
+DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-1003802223101")) # Channel where user links are stored
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 
 try:
